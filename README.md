@@ -1,4 +1,6 @@
-### Hi there 👋
+### Ola! 👋
+
+#### Bwighane Mwalwanda here
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bwighane&theme=highcontrast&show_icons=true&count_private=true)
 
